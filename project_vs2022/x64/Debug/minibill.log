@@ -1,0 +1,17 @@
+﻿  game.cpp
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(207,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(208,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(209,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(231,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(232,80): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(233,105): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(235,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(236,80): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(237,105): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(239,33): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(240,33): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(241,33): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(242,33): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(265,130): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Downloads\minibill\game_cpp\game.cpp(266,153): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  minibill.vcxproj -> C:\Users\Asus\Downloads\minibill\project_vs2022\x64\Debug\minibill.exe
